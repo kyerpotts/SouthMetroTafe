@@ -1,0 +1,7 @@
+F:\Programming 1\AT1\3000889_AT1_Q4\3000889_AT1_Q4\bin\Debug\3000889_AT1_Q4.exe.config
+F:\Programming 1\AT1\3000889_AT1_Q4\3000889_AT1_Q4\bin\Debug\3000889_AT1_Q4.exe
+F:\Programming 1\AT1\3000889_AT1_Q4\3000889_AT1_Q4\bin\Debug\3000889_AT1_Q4.pdb
+F:\Programming 1\AT1\3000889_AT1_Q4\3000889_AT1_Q4\obj\Debug\3000889_AT1_Q4.csprojAssemblyReference.cache
+F:\Programming 1\AT1\3000889_AT1_Q4\3000889_AT1_Q4\obj\Debug\3000889_AT1_Q4.csproj.CoreCompileInputs.cache
+F:\Programming 1\AT1\3000889_AT1_Q4\3000889_AT1_Q4\obj\Debug\3000889_AT1_Q4.exe
+F:\Programming 1\AT1\3000889_AT1_Q4\3000889_AT1_Q4\obj\Debug\3000889_AT1_Q4.pdb

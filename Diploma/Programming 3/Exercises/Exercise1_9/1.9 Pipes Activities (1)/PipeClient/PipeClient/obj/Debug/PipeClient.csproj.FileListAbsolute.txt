@@ -1,0 +1,9 @@
+F:\&-Programming II\PipeClient\PipeClient\bin\Debug\PipeClient.exe
+F:\&-Programming II\PipeClient\PipeClient\bin\Debug\PipeClient.pdb
+F:\&-Programming II\PipeClient\PipeClient\obj\Debug\Pipes.Form1.resources
+F:\&-Programming II\PipeClient\PipeClient\obj\Debug\Pipes.Properties.Resources.resources
+F:\&-Programming II\PipeClient\PipeClient\obj\Debug\PipeClient.csproj.GenerateResource.Cache
+F:\&-Programming II\PipeClient\PipeClient\obj\Debug\PipeClient.exe
+F:\&-Programming II\PipeClient\PipeClient\obj\Debug\PipeClient.pdb
+F:\@ Programming III\Pipes activities\PipeClient\PipeClient\obj\Debug\PipeClient.exe
+F:\@ Programming III\Pipes activities\PipeClient\PipeClient\obj\Debug\PipeClient.pdb

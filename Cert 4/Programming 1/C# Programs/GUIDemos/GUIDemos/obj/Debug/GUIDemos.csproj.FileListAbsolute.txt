@@ -1,0 +1,10 @@
+F:\Programming 1\C# Programs\GUIDemos\GUIDemos\bin\Debug\GUIDemos.exe.config
+F:\Programming 1\C# Programs\GUIDemos\GUIDemos\bin\Debug\GUIDemos.exe
+F:\Programming 1\C# Programs\GUIDemos\GUIDemos\bin\Debug\GUIDemos.pdb
+F:\Programming 1\C# Programs\GUIDemos\GUIDemos\obj\Debug\GUIDemos.csprojAssemblyReference.cache
+F:\Programming 1\C# Programs\GUIDemos\GUIDemos\obj\Debug\GUIDemos.Properties.Resources.resources
+F:\Programming 1\C# Programs\GUIDemos\GUIDemos\obj\Debug\GUIDemos.csproj.GenerateResource.cache
+F:\Programming 1\C# Programs\GUIDemos\GUIDemos\obj\Debug\GUIDemos.csproj.CoreCompileInputs.cache
+F:\Programming 1\C# Programs\GUIDemos\GUIDemos\obj\Debug\GUIDemos.exe
+F:\Programming 1\C# Programs\GUIDemos\GUIDemos\obj\Debug\GUIDemos.pdb
+F:\Programming 1\C# Programs\GUIDemos\GUIDemos\obj\Debug\GUIDemos.Form1.resources

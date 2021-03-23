@@ -1,0 +1,23 @@
+DROP DATABASE IF EXISTS idnamedatabase;
+create database idnamedatabase;
+
+use idnamedatabase;
+
+CREATE TABLE IDName (
+	ID INTEGER NOT NULL AUTO_INCREMENT,
+	Name VARCHAR(32),
+	PRIMARY KEY(ID)
+);
+
+INSERT INTO IDName (Name)
+VALUES 
+	("Kevin"),
+	("Ryan"),
+	("Julia"),
+	("Robert"),
+	("Frank"),
+	("Fred"),
+	("Lenny"),
+	("Tom"),
+	("Sarah"),
+	("Kerry");

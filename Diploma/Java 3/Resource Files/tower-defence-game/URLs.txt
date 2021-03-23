@@ -1,0 +1,17 @@
+http://openjdk.java.net/projects/jigsaw/quick-start
+https://www.logicbig.com/tutorials/core-java-tutorial/modules/multi-module-mode.html
+https://www.infoq.com/articles/Java-Jigsaw-Migration-Guide
+
+https://stackoverflow.com/questions/46713289/how-to-use-3rd-party-library-in-java9-module
+https://stackoverflow.com/questions/51478675/error-javafx-runtime-components-are-missing-and-are-required-to-run-this-appli#
+https://stackoverflow.com/questions/52533835/netbeans-9-0-with-javafx-11-and-jdk-11
+https://stackoverflow.com/questions/51987518/javafx-deployment-library-not-found-in-active-jdk
+https://www.reddit.com/r/java/comments/90hmtw/getting_started_with_javafx_11/
+
+http://jdk.java.net/openjfx/
+https://wiki.openjdk.java.net/display/OpenJFX/Main
+https://wiki.openjdk.java.net/display/OpenJFX/Building+OpenJFX
+
+https://www.developer.com/java/data/what-is-a-custom-runtime-image-in-java-9.html
+https://blogs.oracle.com/jtc/automating-the-creation-of-jdk9-reduced-runtime-images-in-netbeans
+https://dzone.com/articles/jlink-in-java-9

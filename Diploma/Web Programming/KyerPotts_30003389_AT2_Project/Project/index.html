@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!--
+	22/09/2019
+	Kyer Potts
+	30003389
+-->
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<h1>Web Programming Project</h1>
+	<h2>Please enter the search information</h2>
+	<form action="php/search.php" method="post">
+		<p>
+			<input type="text" name="title" placeholder="Movie Title">
+		</p>
+		<p>
+			<select name="genre" onchange="this.className=this.options[this.selectedIndex].className" class="choose_genre">
+				<!-- Default option-->
+				<option value="" name="genre" class="choose_genre">Genre</option>
+				<!-- Drop down options-->
+				<option value="Action" name="genre" class="genre">Action</option>
+				<option value="Adventure" name="genre" class="genre">Adventure</option>
+				<option value="Animation" name="genre" class="genre">Animation</option>
+				<option value="Anime" name="genre" class="genre">Anime</option>
+				<option value="Ballet" name="genre" class="genre">Ballet</option>
+				<option value="Comedy" name="genre" class="genre">Comedy</option>
+				<option value="Dance" name="genre" class="genre">Dance</option>
+				<option value="Drama" name="genre" class="genre">Drama</option>
+				<option value="Family" name="genre" class="genre">Family</option>
+				<option value="Fantasy" name="genre" class="genre">Fantasy</option>
+				<option value="Foreign" name="genre" class="genre">Foreign</option>
+				<option value="Horror" name="genre" class="genre">Horror</option>
+				<option value="Late Night" name="genre" class="genre">Late Night</option>
+				<option value="Music" name="genre" class="genre">Music</option>
+				<option value="Musical" name="genre" class="genre">Musical</option>
+				<option value="Mystery" name="genre" class="genre">Mystery</option>
+				<option value="Opera" name="genre" class="genre">Opera</option>
+				<option value="Satire" name="genre" class="genre">Satire</option>
+				<option value="SciFi" name="genre" class="genre">SciFi</option>
+				<option value="Special Interest" name="genre" class="genre">Special Interest</option>
+				<option value="Suspense" name="genre" class="genre">Suspense</option>
+				<option value="Thriller" name="genre" class="genre">Thriller</option>
+				<option value="Other" name="genre" class="genre">Other</option>
+			</select>				
+		</p>
+		<p>
+			<select name="rating" onchange="this.className=this.options[this.selectedIndex].className" class="choose_rating">
+				<!-- Default option-->
+				<option value="" name="rating" class="choose_rating">Rating</option>
+				<!-- Drop down options-->
+				<option value="G" name="rating" class="rating">G</option>
+				<option value="PG" name="rating" class="rating">PG</option>
+				<option value="PG-13" name="rating" class="rating">PG-13</option>
+				<option value="R" name="rating" class="rating">R</option>
+				<option value="NC-17" name="rating" class="rating">NC-17</option>
+				<option value="NR" name="rating" class="rating">NR</option>
+				<option value="UR" name="rating" class="rating">UR</option>
+				<option value="UNK" name="rating" class="rating">UNK</option>
+				<option value="VAR" name="rating" class="rating">VAR</option>
+			</select>
+		</p>
+		<p>
+			<input type="number" name="year" min="1899" max="2099" step="1" placeholder="Year"/>			
+		</p>
+		<p>
+			<input type="submit" value="Search">
+		</p>
+	</form>
+		<h2>Top Ten Most Searched</h2>
+		<form action="php/mostsearched.php" method="post">
+			<input type="submit" value="Most Searched">
+		</form>
+</body>
+</html>

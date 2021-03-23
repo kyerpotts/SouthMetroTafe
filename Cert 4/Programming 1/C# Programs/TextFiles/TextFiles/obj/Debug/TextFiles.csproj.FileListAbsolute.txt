@@ -1,0 +1,10 @@
+F:\Programming 1\C# Programs\TextFiles\TextFiles\bin\Debug\TextFiles.exe.config
+F:\Programming 1\C# Programs\TextFiles\TextFiles\bin\Debug\TextFiles.exe
+F:\Programming 1\C# Programs\TextFiles\TextFiles\bin\Debug\TextFiles.pdb
+F:\Programming 1\C# Programs\TextFiles\TextFiles\obj\Debug\TextFiles.csprojAssemblyReference.cache
+F:\Programming 1\C# Programs\TextFiles\TextFiles\obj\Debug\TextFiles.Form1.resources
+F:\Programming 1\C# Programs\TextFiles\TextFiles\obj\Debug\TextFiles.Properties.Resources.resources
+F:\Programming 1\C# Programs\TextFiles\TextFiles\obj\Debug\TextFiles.csproj.GenerateResource.cache
+F:\Programming 1\C# Programs\TextFiles\TextFiles\obj\Debug\TextFiles.csproj.CoreCompileInputs.cache
+F:\Programming 1\C# Programs\TextFiles\TextFiles\obj\Debug\TextFiles.exe
+F:\Programming 1\C# Programs\TextFiles\TextFiles\obj\Debug\TextFiles.pdb

@@ -1,0 +1,114 @@
+----------------------------------------------------------------------
+FOUND 58 ERRORS AND 1 WARNING AFFECTING 27 LINES
+----------------------------------------------------------------------
+  1 | ERROR   | [x] End of line character is invalid; expected "\n"
+    |         |     but found "\r\n"
+  2 | ERROR   | [ ] Missing file doc comment
+  2 | ERROR   | [x] File is being unconditionally included; use
+    |         |     "require" instead
+  9 | ERROR   | [ ] Missing doc comment for class TableRows
+  9 | ERROR   | [x] Opening brace of a class must be on the line
+    |         |     after the definition
+ 10 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 10 | ERROR   | [x] Line indented incorrectly; expected 4 spaces,
+    |         |     found 1
+ 10 | ERROR   | [ ] Missing doc comment for function __construct()
+ 10 | ERROR   | [x] Opening brace should be on a new line
+ 11 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 11 | ERROR   | [x] Line indented incorrectly; expected at least 8
+    |         |     spaces, found 2
+ 12 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 12 | ERROR   | [x] Line indented incorrectly; expected 4 spaces,
+    |         |     found 1
+ 13 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 14 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 14 | ERROR   | [x] Line indented incorrectly; expected 4 spaces,
+    |         |     found 1
+ 14 | ERROR   | [ ] Missing doc comment for function current()
+ 14 | ERROR   | [x] Opening brace should be on a new line
+ 15 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 15 | ERROR   | [x] Line indented incorrectly; expected at least 8
+    |         |     spaces, found 2
+ 15 | WARNING | [ ] Line exceeds 85 characters; contains 88
+    |         |     characters
+ 16 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 16 | ERROR   | [x] Line indented incorrectly; expected 4 spaces,
+    |         |     found 1
+ 17 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 18 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 18 | ERROR   | [x] Line indented incorrectly; expected 4 spaces,
+    |         |     found 1
+ 18 | ERROR   | [ ] Missing doc comment for function beginChildren()
+ 18 | ERROR   | [x] Opening brace should be on a new line
+ 19 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 19 | ERROR   | [x] Line indented incorrectly; expected at least 8
+    |         |     spaces, found 2
+ 20 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 20 | ERROR   | [x] Line indented incorrectly; expected 4 spaces,
+    |         |     found 1
+ 21 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 22 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 22 | ERROR   | [x] Line indented incorrectly; expected 4 spaces,
+    |         |     found 1
+ 22 | ERROR   | [ ] Missing doc comment for function endChildren()
+ 22 | ERROR   | [x] Opening brace should be on a new line
+ 23 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 23 | ERROR   | [x] Line indented incorrectly; expected at least 8
+    |         |     spaces, found 2
+ 24 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 24 | ERROR   | [x] Line indented incorrectly; expected 4 spaces,
+    |         |     found 1
+ 34 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 34 | ERROR   | [x] Line indented incorrectly; expected at least 4
+    |         |     spaces, found 1
+ 35 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 35 | ERROR   | [x] Line indented incorrectly; expected at least 4
+    |         |     spaces, found 1
+ 36 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 36 | ERROR   | [x] Line indented incorrectly; expected at least 4
+    |         |     spaces, found 1
+ 37 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 37 | ERROR   | [x] Line indented incorrectly; expected at least 4
+    |         |     spaces, found 1
+ 38 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 39 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 39 | ERROR   | [x] Line indented incorrectly; expected at least 4
+    |         |     spaces, found 1
+ 40 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 40 | ERROR   | [x] Line indented incorrectly; expected 4 spaces,
+    |         |     found 1
+ 40 | ERROR   | [ ] Expected "foreach (...) {\n"; found "foreach(...)
+    |         |     {\n"
+ 41 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 41 | ERROR   | [x] Line indented incorrectly; expected at least 8
+    |         |     spaces, found 2
+ 42 | ERROR   | [x] Spaces must be used to indent lines; tabs are not
+    |         |     allowed
+ 42 | ERROR   | [x] Line indented incorrectly; expected 4 spaces,
+    |         |     found 1
+----------------------------------------------------------------------
+PHPCBF CAN FIX THE 51 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------

@@ -1,0 +1,10 @@
+C:\Users\nightr\source\repos\ComparingStrings\ComparingStrings\bin\Debug\ComparingStrings.exe.config
+C:\Users\nightr\source\repos\ComparingStrings\ComparingStrings\bin\Debug\ComparingStrings.exe
+C:\Users\nightr\source\repos\ComparingStrings\ComparingStrings\bin\Debug\ComparingStrings.pdb
+C:\Users\nightr\source\repos\ComparingStrings\ComparingStrings\obj\Debug\ComparingStrings.csprojAssemblyReference.cache
+C:\Users\nightr\source\repos\ComparingStrings\ComparingStrings\obj\Debug\ComparingStrings.Form1.resources
+C:\Users\nightr\source\repos\ComparingStrings\ComparingStrings\obj\Debug\ComparingStrings.Properties.Resources.resources
+C:\Users\nightr\source\repos\ComparingStrings\ComparingStrings\obj\Debug\ComparingStrings.csproj.GenerateResource.cache
+C:\Users\nightr\source\repos\ComparingStrings\ComparingStrings\obj\Debug\ComparingStrings.csproj.CoreCompileInputs.cache
+C:\Users\nightr\source\repos\ComparingStrings\ComparingStrings\obj\Debug\ComparingStrings.exe
+C:\Users\nightr\source\repos\ComparingStrings\ComparingStrings\obj\Debug\ComparingStrings.pdb

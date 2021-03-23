@@ -1,0 +1,9 @@
+F:\Programming 1\C# Programs\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+F:\Programming 1\C# Programs\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+F:\Programming 1\C# Programs\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+F:\Programming 1\C# Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.Form1.resources
+F:\Programming 1\C# Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.Properties.Resources.resources
+F:\Programming 1\C# Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.GenerateResource.cache
+F:\Programming 1\C# Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+F:\Programming 1\C# Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+F:\Programming 1\C# Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

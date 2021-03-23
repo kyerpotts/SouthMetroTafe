@@ -1,0 +1,1716 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;tbIIRetailPrice.Name" xml:space="preserve">
+    <value>tbIIRetailPrice</value>
+  </data>
+  <data name="&gt;&gt;tbIIRetailPrice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbIIRetailPrice.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;tbIIRetailPrice.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tbIIStockQuantity.Name" xml:space="preserve">
+    <value>tbIIStockQuantity</value>
+  </data>
+  <data name="&gt;&gt;tbIIStockQuantity.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbIIStockQuantity.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;tbIIStockQuantity.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tbIIDescription.Name" xml:space="preserve">
+    <value>tbIIDescription</value>
+  </data>
+  <data name="&gt;&gt;tbIIDescription.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbIIDescription.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;tbIIDescription.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tbIIProductID.Name" xml:space="preserve">
+    <value>tbIIProductID</value>
+  </data>
+  <data name="&gt;&gt;tbIIProductID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbIIProductID.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;tbIIProductID.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;lbIIRetailPrice.Name" xml:space="preserve">
+    <value>lbIIRetailPrice</value>
+  </data>
+  <data name="&gt;&gt;lbIIRetailPrice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbIIRetailPrice.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;lbIIRetailPrice.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;lbIIStockQuantity.Name" xml:space="preserve">
+    <value>lbIIStockQuantity</value>
+  </data>
+  <data name="&gt;&gt;lbIIStockQuantity.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbIIStockQuantity.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;lbIIStockQuantity.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;lbIIDescription.Name" xml:space="preserve">
+    <value>lbIIDescription</value>
+  </data>
+  <data name="&gt;&gt;lbIIDescription.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbIIDescription.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;lbIIDescription.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lbIIProductID.Name" xml:space="preserve">
+    <value>lbIIProductID</value>
+  </data>
+  <data name="&gt;&gt;lbIIProductID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbIIProductID.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;lbIIProductID.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="grpboxItemInfo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="grpboxItemInfo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 141</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="grpboxItemInfo.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="grpboxItemInfo.Text" xml:space="preserve">
+    <value>Item Info</value>
+  </data>
+  <data name="&gt;&gt;grpboxItemInfo.Name" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;grpboxItemInfo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grpboxItemInfo.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;grpboxItemInfo.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="tbIIRetailPrice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 100</value>
+  </data>
+  <data name="tbIIRetailPrice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbIIRetailPrice.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="tbIIRetailPrice.ToolTip" xml:space="preserve">
+    <value>Please enter the retail price in this field.</value>
+  </data>
+  <data name="&gt;&gt;tbIIRetailPrice.Name" xml:space="preserve">
+    <value>tbIIRetailPrice</value>
+  </data>
+  <data name="&gt;&gt;tbIIRetailPrice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbIIRetailPrice.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;tbIIRetailPrice.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tbIIStockQuantity.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 74</value>
+  </data>
+  <data name="tbIIStockQuantity.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbIIStockQuantity.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="tbIIStockQuantity.ToolTip" xml:space="preserve">
+    <value>Please enter the quantity of the stock in this field.</value>
+  </data>
+  <data name="&gt;&gt;tbIIStockQuantity.Name" xml:space="preserve">
+    <value>tbIIStockQuantity</value>
+  </data>
+  <data name="&gt;&gt;tbIIStockQuantity.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbIIStockQuantity.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;tbIIStockQuantity.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tbIIDescription.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 48</value>
+  </data>
+  <data name="tbIIDescription.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbIIDescription.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="tbIIDescription.ToolTip" xml:space="preserve">
+    <value>Please enter a product description in this field.</value>
+  </data>
+  <data name="&gt;&gt;tbIIDescription.Name" xml:space="preserve">
+    <value>tbIIDescription</value>
+  </data>
+  <data name="&gt;&gt;tbIIDescription.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbIIDescription.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;tbIIDescription.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tbIIProductID.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 19</value>
+  </data>
+  <data name="tbIIProductID.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbIIProductID.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="tbIIProductID.ToolTip" xml:space="preserve">
+    <value>Please enter the Product ID. Double click on this field resets all other fields.</value>
+  </data>
+  <data name="&gt;&gt;tbIIProductID.Name" xml:space="preserve">
+    <value>tbIIProductID</value>
+  </data>
+  <data name="&gt;&gt;tbIIProductID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbIIProductID.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;tbIIProductID.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lbIIRetailPrice.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbIIRetailPrice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 103</value>
+  </data>
+  <data name="lbIIRetailPrice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 13</value>
+  </data>
+  <data name="lbIIRetailPrice.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="lbIIRetailPrice.Text" xml:space="preserve">
+    <value>Retail Price</value>
+  </data>
+  <data name="&gt;&gt;lbIIRetailPrice.Name" xml:space="preserve">
+    <value>lbIIRetailPrice</value>
+  </data>
+  <data name="&gt;&gt;lbIIRetailPrice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbIIRetailPrice.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;lbIIRetailPrice.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lbIIStockQuantity.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbIIStockQuantity.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 77</value>
+  </data>
+  <data name="lbIIStockQuantity.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 13</value>
+  </data>
+  <data name="lbIIStockQuantity.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lbIIStockQuantity.Text" xml:space="preserve">
+    <value>Stock Quantity</value>
+  </data>
+  <data name="&gt;&gt;lbIIStockQuantity.Name" xml:space="preserve">
+    <value>lbIIStockQuantity</value>
+  </data>
+  <data name="&gt;&gt;lbIIStockQuantity.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbIIStockQuantity.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;lbIIStockQuantity.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lbIIDescription.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lbIIDescription.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbIIDescription.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 51</value>
+  </data>
+  <data name="lbIIDescription.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 13</value>
+  </data>
+  <data name="lbIIDescription.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lbIIDescription.Text" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="&gt;&gt;lbIIDescription.Name" xml:space="preserve">
+    <value>lbIIDescription</value>
+  </data>
+  <data name="&gt;&gt;lbIIDescription.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbIIDescription.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;lbIIDescription.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lbIIProductID.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbIIProductID.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 22</value>
+  </data>
+  <data name="lbIIProductID.Size" type="System.Drawing.Size, System.Drawing">
+    <value>55, 13</value>
+  </data>
+  <data name="lbIIProductID.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lbIIProductID.Text" xml:space="preserve">
+    <value>ProductID</value>
+  </data>
+  <data name="&gt;&gt;lbIIProductID.Name" xml:space="preserve">
+    <value>lbIIProductID</value>
+  </data>
+  <data name="&gt;&gt;lbIIProductID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbIIProductID.Parent" xml:space="preserve">
+    <value>grpboxItemInfo</value>
+  </data>
+  <data name="&gt;&gt;lbIIProductID.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;tbGMediaType.Name" xml:space="preserve">
+    <value>tbGMediaType</value>
+  </data>
+  <data name="&gt;&gt;tbGMediaType.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbGMediaType.Parent" xml:space="preserve">
+    <value>grpbGames</value>
+  </data>
+  <data name="&gt;&gt;tbGMediaType.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tbGPublisher.Name" xml:space="preserve">
+    <value>tbGPublisher</value>
+  </data>
+  <data name="&gt;&gt;tbGPublisher.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbGPublisher.Parent" xml:space="preserve">
+    <value>grpbGames</value>
+  </data>
+  <data name="&gt;&gt;tbGPublisher.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lbGMediaType.Name" xml:space="preserve">
+    <value>lbGMediaType</value>
+  </data>
+  <data name="&gt;&gt;lbGMediaType.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbGMediaType.Parent" xml:space="preserve">
+    <value>grpbGames</value>
+  </data>
+  <data name="&gt;&gt;lbGMediaType.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lbGPublisher.Name" xml:space="preserve">
+    <value>lbGPublisher</value>
+  </data>
+  <data name="&gt;&gt;lbGPublisher.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbGPublisher.Parent" xml:space="preserve">
+    <value>grpbGames</value>
+  </data>
+  <data name="&gt;&gt;lbGPublisher.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="grpbGames.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 159</value>
+  </data>
+  <data name="grpbGames.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 87</value>
+  </data>
+  <data name="grpbGames.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="grpbGames.Text" xml:space="preserve">
+    <value>Games</value>
+  </data>
+  <data name="&gt;&gt;grpbGames.Name" xml:space="preserve">
+    <value>grpbGames</value>
+  </data>
+  <data name="&gt;&gt;grpbGames.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grpbGames.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;grpbGames.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="tbGMediaType.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 47</value>
+  </data>
+  <data name="tbGMediaType.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbGMediaType.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="tbGMediaType.ToolTip" xml:space="preserve">
+    <value>Please enter the type of media in this field.  This field may be left blank if it does not apply.</value>
+  </data>
+  <data name="&gt;&gt;tbGMediaType.Name" xml:space="preserve">
+    <value>tbGMediaType</value>
+  </data>
+  <data name="&gt;&gt;tbGMediaType.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbGMediaType.Parent" xml:space="preserve">
+    <value>grpbGames</value>
+  </data>
+  <data name="&gt;&gt;tbGMediaType.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tbGPublisher.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 19</value>
+  </data>
+  <data name="tbGPublisher.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbGPublisher.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="tbGPublisher.ToolTip" xml:space="preserve">
+    <value>Please enter the name of the publisher in this field. This field may be left blank if it does not apply.</value>
+  </data>
+  <data name="&gt;&gt;tbGPublisher.Name" xml:space="preserve">
+    <value>tbGPublisher</value>
+  </data>
+  <data name="&gt;&gt;tbGPublisher.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbGPublisher.Parent" xml:space="preserve">
+    <value>grpbGames</value>
+  </data>
+  <data name="&gt;&gt;tbGPublisher.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lbGMediaType.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbGMediaType.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 50</value>
+  </data>
+  <data name="lbGMediaType.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 13</value>
+  </data>
+  <data name="lbGMediaType.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lbGMediaType.Text" xml:space="preserve">
+    <value>MediaType</value>
+  </data>
+  <data name="&gt;&gt;lbGMediaType.Name" xml:space="preserve">
+    <value>lbGMediaType</value>
+  </data>
+  <data name="&gt;&gt;lbGMediaType.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbGMediaType.Parent" xml:space="preserve">
+    <value>grpbGames</value>
+  </data>
+  <data name="&gt;&gt;lbGMediaType.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lbGPublisher.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbGPublisher.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 22</value>
+  </data>
+  <data name="lbGPublisher.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 13</value>
+  </data>
+  <data name="lbGPublisher.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lbGPublisher.Text" xml:space="preserve">
+    <value>Publisher</value>
+  </data>
+  <data name="&gt;&gt;lbGPublisher.Name" xml:space="preserve">
+    <value>lbGPublisher</value>
+  </data>
+  <data name="&gt;&gt;lbGPublisher.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbGPublisher.Parent" xml:space="preserve">
+    <value>grpbGames</value>
+  </data>
+  <data name="&gt;&gt;lbGPublisher.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tbPModelNumber.Name" xml:space="preserve">
+    <value>tbPModelNumber</value>
+  </data>
+  <data name="&gt;&gt;tbPModelNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbPModelNumber.Parent" xml:space="preserve">
+    <value>grpbPlatforms</value>
+  </data>
+  <data name="&gt;&gt;tbPModelNumber.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lbPModelNumber.Name" xml:space="preserve">
+    <value>lbPModelNumber</value>
+  </data>
+  <data name="&gt;&gt;lbPModelNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbPModelNumber.Parent" xml:space="preserve">
+    <value>grpbPlatforms</value>
+  </data>
+  <data name="&gt;&gt;lbPModelNumber.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="grpbPlatforms.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 252</value>
+  </data>
+  <data name="grpbPlatforms.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 58</value>
+  </data>
+  <data name="grpbPlatforms.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="grpbPlatforms.Text" xml:space="preserve">
+    <value>Platforms</value>
+  </data>
+  <data name="&gt;&gt;grpbPlatforms.Name" xml:space="preserve">
+    <value>grpbPlatforms</value>
+  </data>
+  <data name="&gt;&gt;grpbPlatforms.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grpbPlatforms.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;grpbPlatforms.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="tbPModelNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 20</value>
+  </data>
+  <data name="tbPModelNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbPModelNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tbPModelNumber.ToolTip" xml:space="preserve">
+    <value>Please enter the model number into this field.  This field may be left blank if it does not apply.</value>
+  </data>
+  <data name="&gt;&gt;tbPModelNumber.Name" xml:space="preserve">
+    <value>tbPModelNumber</value>
+  </data>
+  <data name="&gt;&gt;tbPModelNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbPModelNumber.Parent" xml:space="preserve">
+    <value>grpbPlatforms</value>
+  </data>
+  <data name="&gt;&gt;tbPModelNumber.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lbPModelNumber.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbPModelNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 23</value>
+  </data>
+  <data name="lbPModelNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 13</value>
+  </data>
+  <data name="lbPModelNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lbPModelNumber.Text" xml:space="preserve">
+    <value>Model Number</value>
+  </data>
+  <data name="&gt;&gt;lbPModelNumber.Name" xml:space="preserve">
+    <value>lbPModelNumber</value>
+  </data>
+  <data name="&gt;&gt;lbPModelNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbPModelNumber.Parent" xml:space="preserve">
+    <value>grpbPlatforms</value>
+  </data>
+  <data name="&gt;&gt;lbPModelNumber.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tbAPlatformType.Name" xml:space="preserve">
+    <value>tbAPlatformType</value>
+  </data>
+  <data name="&gt;&gt;tbAPlatformType.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbAPlatformType.Parent" xml:space="preserve">
+    <value>grpbAccessories</value>
+  </data>
+  <data name="&gt;&gt;tbAPlatformType.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lbAPlatformType.Name" xml:space="preserve">
+    <value>lbAPlatformType</value>
+  </data>
+  <data name="&gt;&gt;lbAPlatformType.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbAPlatformType.Parent" xml:space="preserve">
+    <value>grpbAccessories</value>
+  </data>
+  <data name="&gt;&gt;lbAPlatformType.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="grpbAccessories.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 317</value>
+  </data>
+  <data name="grpbAccessories.Size" type="System.Drawing.Size, System.Drawing">
+    <value>202, 58</value>
+  </data>
+  <data name="grpbAccessories.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="grpbAccessories.Text" xml:space="preserve">
+    <value>Accessories</value>
+  </data>
+  <data name="&gt;&gt;grpbAccessories.Name" xml:space="preserve">
+    <value>grpbAccessories</value>
+  </data>
+  <data name="&gt;&gt;grpbAccessories.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grpbAccessories.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;grpbAccessories.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="tbAPlatformType.Location" type="System.Drawing.Point, System.Drawing">
+    <value>96, 19</value>
+  </data>
+  <data name="tbAPlatformType.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbAPlatformType.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tbAPlatformType.ToolTip" xml:space="preserve">
+    <value>Please enter the platform type into this field.  This field may be left blank if it does not apply.</value>
+  </data>
+  <data name="&gt;&gt;tbAPlatformType.Name" xml:space="preserve">
+    <value>tbAPlatformType</value>
+  </data>
+  <data name="&gt;&gt;tbAPlatformType.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbAPlatformType.Parent" xml:space="preserve">
+    <value>grpbAccessories</value>
+  </data>
+  <data name="&gt;&gt;tbAPlatformType.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lbAPlatformType.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbAPlatformType.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 22</value>
+  </data>
+  <data name="lbAPlatformType.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 13</value>
+  </data>
+  <data name="lbAPlatformType.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lbAPlatformType.Text" xml:space="preserve">
+    <value>Platform Type</value>
+  </data>
+  <data name="&gt;&gt;lbAPlatformType.Name" xml:space="preserve">
+    <value>lbAPlatformType</value>
+  </data>
+  <data name="&gt;&gt;lbAPlatformType.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbAPlatformType.Parent" xml:space="preserve">
+    <value>grpbAccessories</value>
+  </data>
+  <data name="&gt;&gt;lbAPlatformType.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lbProducts.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbProducts.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Rockwell, 15.75pt, style=Bold</value>
+  </data>
+  <data name="lbProducts.Location" type="System.Drawing.Point, System.Drawing">
+    <value>230, 9</value>
+  </data>
+  <data name="lbProducts.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 25</value>
+  </data>
+  <data name="lbProducts.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lbProducts.Text" xml:space="preserve">
+    <value>Products</value>
+  </data>
+  <data name="&gt;&gt;lbProducts.Name" xml:space="preserve">
+    <value>lbProducts</value>
+  </data>
+  <data name="&gt;&gt;lbProducts.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbProducts.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbProducts.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="btnProductsAdd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>235, 43</value>
+  </data>
+  <data name="btnProductsAdd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 23</value>
+  </data>
+  <data name="btnProductsAdd.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btnProductsAdd.Text" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="btnProductsAdd.ToolTip" xml:space="preserve">
+    <value>Please ensure all relevant fields have been completed successfully.</value>
+  </data>
+  <data name="&gt;&gt;btnProductsAdd.Name" xml:space="preserve">
+    <value>btnProductsAdd</value>
+  </data>
+  <data name="&gt;&gt;btnProductsAdd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnProductsAdd.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnProductsAdd.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lstProducts.Location" type="System.Drawing.Point, System.Drawing">
+    <value>235, 72</value>
+  </data>
+  <data name="lstProducts.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 303</value>
+  </data>
+  <data name="lstProducts.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lstProducts.Name" xml:space="preserve">
+    <value>lstProducts</value>
+  </data>
+  <data name="&gt;&gt;lstProducts.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lstProducts.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lstProducts.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lbCustomers.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbCustomers.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Rockwell, 15.75pt, style=Bold</value>
+  </data>
+  <data name="lbCustomers.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbCustomers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>405, 9</value>
+  </data>
+  <data name="lbCustomers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 25</value>
+  </data>
+  <data name="lbCustomers.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lbCustomers.Text" xml:space="preserve">
+    <value>Customers</value>
+  </data>
+  <data name="&gt;&gt;lbCustomers.Name" xml:space="preserve">
+    <value>lbCustomers</value>
+  </data>
+  <data name="&gt;&gt;lbCustomers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbCustomers.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lbCustomers.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="tbCIEmail.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 97</value>
+  </data>
+  <data name="tbCIEmail.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbCIEmail.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="tbCIEmail.ToolTip" xml:space="preserve">
+    <value>Please enter the customers email into this field.</value>
+  </data>
+  <data name="&gt;&gt;tbCIEmail.Name" xml:space="preserve">
+    <value>tbCIEmail</value>
+  </data>
+  <data name="&gt;&gt;tbCIEmail.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbCIEmail.Parent" xml:space="preserve">
+    <value>grpbCustomerInfo</value>
+  </data>
+  <data name="&gt;&gt;tbCIEmail.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tbCIFirstName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 71</value>
+  </data>
+  <data name="tbCIFirstName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbCIFirstName.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="tbCIFirstName.ToolTip" xml:space="preserve">
+    <value>Please enter the first name into this field.</value>
+  </data>
+  <data name="&gt;&gt;tbCIFirstName.Name" xml:space="preserve">
+    <value>tbCIFirstName</value>
+  </data>
+  <data name="&gt;&gt;tbCIFirstName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbCIFirstName.Parent" xml:space="preserve">
+    <value>grpbCustomerInfo</value>
+  </data>
+  <data name="&gt;&gt;tbCIFirstName.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tbCIFamilyName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 45</value>
+  </data>
+  <data name="tbCIFamilyName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbCIFamilyName.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="tbCIFamilyName.ToolTip" xml:space="preserve">
+    <value>Please enter the family name into this field.</value>
+  </data>
+  <data name="&gt;&gt;tbCIFamilyName.Name" xml:space="preserve">
+    <value>tbCIFamilyName</value>
+  </data>
+  <data name="&gt;&gt;tbCIFamilyName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbCIFamilyName.Parent" xml:space="preserve">
+    <value>grpbCustomerInfo</value>
+  </data>
+  <data name="&gt;&gt;tbCIFamilyName.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tbCICustID.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 19</value>
+  </data>
+  <data name="tbCICustID.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbCICustID.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="tbCICustID.ToolTip" xml:space="preserve">
+    <value>Please enter the customer ID into this field. Double click on this field resets all other fields.</value>
+  </data>
+  <data name="&gt;&gt;tbCICustID.Name" xml:space="preserve">
+    <value>tbCICustID</value>
+  </data>
+  <data name="&gt;&gt;tbCICustID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbCICustID.Parent" xml:space="preserve">
+    <value>grpbCustomerInfo</value>
+  </data>
+  <data name="&gt;&gt;tbCICustID.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lbCIEmail.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbCIEmail.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 100</value>
+  </data>
+  <data name="lbCIEmail.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 13</value>
+  </data>
+  <data name="lbCIEmail.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="lbCIEmail.Text" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="&gt;&gt;lbCIEmail.Name" xml:space="preserve">
+    <value>lbCIEmail</value>
+  </data>
+  <data name="&gt;&gt;lbCIEmail.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbCIEmail.Parent" xml:space="preserve">
+    <value>grpbCustomerInfo</value>
+  </data>
+  <data name="&gt;&gt;lbCIEmail.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lbCIFirstName.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbCIFirstName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 74</value>
+  </data>
+  <data name="lbCIFirstName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>57, 13</value>
+  </data>
+  <data name="lbCIFirstName.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lbCIFirstName.Text" xml:space="preserve">
+    <value>First Name</value>
+  </data>
+  <data name="&gt;&gt;lbCIFirstName.Name" xml:space="preserve">
+    <value>lbCIFirstName</value>
+  </data>
+  <data name="&gt;&gt;lbCIFirstName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbCIFirstName.Parent" xml:space="preserve">
+    <value>grpbCustomerInfo</value>
+  </data>
+  <data name="&gt;&gt;lbCIFirstName.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lbCIFamilyName.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbCIFamilyName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 48</value>
+  </data>
+  <data name="lbCIFamilyName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 13</value>
+  </data>
+  <data name="lbCIFamilyName.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lbCIFamilyName.Text" xml:space="preserve">
+    <value>Family Name</value>
+  </data>
+  <data name="&gt;&gt;lbCIFamilyName.Name" xml:space="preserve">
+    <value>lbCIFamilyName</value>
+  </data>
+  <data name="&gt;&gt;lbCIFamilyName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbCIFamilyName.Parent" xml:space="preserve">
+    <value>grpbCustomerInfo</value>
+  </data>
+  <data name="&gt;&gt;lbCIFamilyName.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lbCICustID.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbCICustID.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 22</value>
+  </data>
+  <data name="lbCICustID.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 13</value>
+  </data>
+  <data name="lbCICustID.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lbCICustID.Text" xml:space="preserve">
+    <value>Cust ID</value>
+  </data>
+  <data name="&gt;&gt;lbCICustID.Name" xml:space="preserve">
+    <value>lbCICustID</value>
+  </data>
+  <data name="&gt;&gt;lbCICustID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbCICustID.Parent" xml:space="preserve">
+    <value>grpbCustomerInfo</value>
+  </data>
+  <data name="&gt;&gt;lbCICustID.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="grpbCustomerInfo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>410, 43</value>
+  </data>
+  <data name="grpbCustomerInfo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 134</value>
+  </data>
+  <data name="grpbCustomerInfo.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="grpbCustomerInfo.Text" xml:space="preserve">
+    <value>Customer Info</value>
+  </data>
+  <data name="&gt;&gt;grpbCustomerInfo.Name" xml:space="preserve">
+    <value>grpbCustomerInfo</value>
+  </data>
+  <data name="&gt;&gt;grpbCustomerInfo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grpbCustomerInfo.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;grpbCustomerInfo.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Rockwell, 15.75pt, style=Bold</value>
+  </data>
+  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>405, 183</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>145, 25</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Transactions</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;tbTIDate.Name" xml:space="preserve">
+    <value>tbTIDate</value>
+  </data>
+  <data name="&gt;&gt;tbTIDate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbTIDate.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;tbTIDate.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tbTIRetailPrice.Name" xml:space="preserve">
+    <value>tbTIRetailPrice</value>
+  </data>
+  <data name="&gt;&gt;tbTIRetailPrice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbTIRetailPrice.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;tbTIRetailPrice.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tbTIQuantity.Name" xml:space="preserve">
+    <value>tbTIQuantity</value>
+  </data>
+  <data name="&gt;&gt;tbTIQuantity.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbTIQuantity.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;tbTIQuantity.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tbTIProductID.Name" xml:space="preserve">
+    <value>tbTIProductID</value>
+  </data>
+  <data name="&gt;&gt;tbTIProductID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbTIProductID.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;tbTIProductID.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tbTICustID.Name" xml:space="preserve">
+    <value>tbTICustID</value>
+  </data>
+  <data name="&gt;&gt;tbTICustID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbTICustID.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;tbTICustID.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;lbTIDate.Name" xml:space="preserve">
+    <value>lbTIDate</value>
+  </data>
+  <data name="&gt;&gt;lbTIDate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbTIDate.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;lbTIDate.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;lbTIRetailPrice.Name" xml:space="preserve">
+    <value>lbTIRetailPrice</value>
+  </data>
+  <data name="&gt;&gt;lbTIRetailPrice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbTIRetailPrice.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;lbTIRetailPrice.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lbTIQuantity.Name" xml:space="preserve">
+    <value>lbTIQuantity</value>
+  </data>
+  <data name="&gt;&gt;lbTIQuantity.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbTIQuantity.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;lbTIQuantity.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;lbTIProductID.Name" xml:space="preserve">
+    <value>lbTIProductID</value>
+  </data>
+  <data name="&gt;&gt;lbTIProductID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbTIProductID.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;lbTIProductID.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;lbTICustID.Name" xml:space="preserve">
+    <value>lbTICustID</value>
+  </data>
+  <data name="&gt;&gt;lbTICustID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbTICustID.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;lbTICustID.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="grpbTransactionInfo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>410, 211</value>
+  </data>
+  <data name="grpbTransactionInfo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 164</value>
+  </data>
+  <data name="grpbTransactionInfo.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="grpbTransactionInfo.Text" xml:space="preserve">
+    <value>Transaction Info</value>
+  </data>
+  <data name="&gt;&gt;grpbTransactionInfo.Name" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;grpbTransactionInfo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grpbTransactionInfo.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;grpbTransactionInfo.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="tbTIDate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 128</value>
+  </data>
+  <data name="tbTIDate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbTIDate.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="tbTIDate.ToolTip" xml:space="preserve">
+    <value>Please enter the date into this field.</value>
+  </data>
+  <data name="&gt;&gt;tbTIDate.Name" xml:space="preserve">
+    <value>tbTIDate</value>
+  </data>
+  <data name="&gt;&gt;tbTIDate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbTIDate.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;tbTIDate.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tbTIRetailPrice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 101</value>
+  </data>
+  <data name="tbTIRetailPrice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbTIRetailPrice.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="tbTIRetailPrice.ToolTip" xml:space="preserve">
+    <value>Please select a product from the list to populate this field.</value>
+  </data>
+  <data name="&gt;&gt;tbTIRetailPrice.Name" xml:space="preserve">
+    <value>tbTIRetailPrice</value>
+  </data>
+  <data name="&gt;&gt;tbTIRetailPrice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbTIRetailPrice.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;tbTIRetailPrice.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tbTIQuantity.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 74</value>
+  </data>
+  <data name="tbTIQuantity.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbTIQuantity.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="tbTIQuantity.ToolTip" xml:space="preserve">
+    <value>Please enter a quantity into this field.</value>
+  </data>
+  <data name="&gt;&gt;tbTIQuantity.Name" xml:space="preserve">
+    <value>tbTIQuantity</value>
+  </data>
+  <data name="&gt;&gt;tbTIQuantity.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbTIQuantity.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;tbTIQuantity.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tbTIProductID.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 47</value>
+  </data>
+  <data name="tbTIProductID.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbTIProductID.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="tbTIProductID.ToolTip" xml:space="preserve">
+    <value>Please select a product from the list to populate this field.</value>
+  </data>
+  <data name="&gt;&gt;tbTIProductID.Name" xml:space="preserve">
+    <value>tbTIProductID</value>
+  </data>
+  <data name="&gt;&gt;tbTIProductID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbTIProductID.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;tbTIProductID.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tbTICustID.Location" type="System.Drawing.Point, System.Drawing">
+    <value>97, 19</value>
+  </data>
+  <data name="tbTICustID.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="tbTICustID.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="tbTICustID.ToolTip" xml:space="preserve">
+    <value>Please select a customer from the list to populate this field.</value>
+  </data>
+  <data name="&gt;&gt;tbTICustID.Name" xml:space="preserve">
+    <value>tbTICustID</value>
+  </data>
+  <data name="&gt;&gt;tbTICustID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbTICustID.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;tbTICustID.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lbTIDate.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbTIDate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 131</value>
+  </data>
+  <data name="lbTIDate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 13</value>
+  </data>
+  <data name="lbTIDate.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lbTIDate.Text" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="&gt;&gt;lbTIDate.Name" xml:space="preserve">
+    <value>lbTIDate</value>
+  </data>
+  <data name="&gt;&gt;lbTIDate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbTIDate.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;lbTIDate.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lbTIRetailPrice.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbTIRetailPrice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 104</value>
+  </data>
+  <data name="lbTIRetailPrice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 13</value>
+  </data>
+  <data name="lbTIRetailPrice.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="lbTIRetailPrice.Text" xml:space="preserve">
+    <value>Retail Price</value>
+  </data>
+  <data name="&gt;&gt;lbTIRetailPrice.Name" xml:space="preserve">
+    <value>lbTIRetailPrice</value>
+  </data>
+  <data name="&gt;&gt;lbTIRetailPrice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbTIRetailPrice.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;lbTIRetailPrice.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lbTIQuantity.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbTIQuantity.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 77</value>
+  </data>
+  <data name="lbTIQuantity.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 13</value>
+  </data>
+  <data name="lbTIQuantity.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lbTIQuantity.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="&gt;&gt;lbTIQuantity.Name" xml:space="preserve">
+    <value>lbTIQuantity</value>
+  </data>
+  <data name="&gt;&gt;lbTIQuantity.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbTIQuantity.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;lbTIQuantity.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lbTIProductID.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbTIProductID.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 50</value>
+  </data>
+  <data name="lbTIProductID.Size" type="System.Drawing.Size, System.Drawing">
+    <value>55, 13</value>
+  </data>
+  <data name="lbTIProductID.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lbTIProductID.Text" xml:space="preserve">
+    <value>ProductID</value>
+  </data>
+  <data name="&gt;&gt;lbTIProductID.Name" xml:space="preserve">
+    <value>lbTIProductID</value>
+  </data>
+  <data name="&gt;&gt;lbTIProductID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbTIProductID.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;lbTIProductID.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="lbTICustID.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbTICustID.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 22</value>
+  </data>
+  <data name="lbTICustID.Size" type="System.Drawing.Size, System.Drawing">
+    <value>39, 13</value>
+  </data>
+  <data name="lbTICustID.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lbTICustID.Text" xml:space="preserve">
+    <value>CustID</value>
+  </data>
+  <data name="&gt;&gt;lbTICustID.Name" xml:space="preserve">
+    <value>lbTICustID</value>
+  </data>
+  <data name="&gt;&gt;lbTICustID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbTICustID.Parent" xml:space="preserve">
+    <value>grpbTransactionInfo</value>
+  </data>
+  <data name="&gt;&gt;lbTICustID.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="btnCustomersAdd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>639, 13</value>
+  </data>
+  <data name="btnCustomersAdd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 23</value>
+  </data>
+  <data name="btnCustomersAdd.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="btnCustomersAdd.Text" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="btnCustomersAdd.ToolTip" xml:space="preserve">
+    <value>Customer information does not need to be completed, however a default customer will be created.</value>
+  </data>
+  <data name="&gt;&gt;btnCustomersAdd.Name" xml:space="preserve">
+    <value>btnCustomersAdd</value>
+  </data>
+  <data name="&gt;&gt;btnCustomersAdd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCustomersAdd.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnCustomersAdd.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lstCustomers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>639, 43</value>
+  </data>
+  <data name="lstCustomers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 134</value>
+  </data>
+  <data name="lstCustomers.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;lstCustomers.Name" xml:space="preserve">
+    <value>lstCustomers</value>
+  </data>
+  <data name="&gt;&gt;lstCustomers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lstCustomers.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lstCustomers.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnTransactionsAdd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>639, 187</value>
+  </data>
+  <data name="btnTransactionsAdd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 23</value>
+  </data>
+  <data name="btnTransactionsAdd.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="btnTransactionsAdd.Text" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="btnTransactionsAdd.ToolTip" xml:space="preserve">
+    <value>Please ensure all relevant fields have been populated.</value>
+  </data>
+  <data name="&gt;&gt;btnTransactionsAdd.Name" xml:space="preserve">
+    <value>btnTransactionsAdd</value>
+  </data>
+  <data name="&gt;&gt;btnTransactionsAdd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnTransactionsAdd.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnTransactionsAdd.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lstTransactions.Location" type="System.Drawing.Point, System.Drawing">
+    <value>639, 217</value>
+  </data>
+  <data name="lstTransactions.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 160</value>
+  </data>
+  <data name="lstTransactions.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;lstTransactions.Name" xml:space="preserve">
+    <value>lstTransactions</value>
+  </data>
+  <data name="&gt;&gt;lstTransactions.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lstTransactions.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lstTransactions.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>808, 395</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Virada Games</value>
+  </data>
+  <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
+    <value>toolTip1</value>
+  </data>
+  <data name="&gt;&gt;toolTip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>ViradaGames</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

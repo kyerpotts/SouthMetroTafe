@@ -1,0 +1,20 @@
+C:\Users\godwis\Desktop\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\bin\Debug\WindowsFormsLogic.exe.config
+C:\Users\godwis\Desktop\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\bin\Debug\WindowsFormsLogic.exe
+C:\Users\godwis\Desktop\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\bin\Debug\WindowsFormsLogic.pdb
+C:\Users\godwis\Desktop\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\obj\Debug\WindowsFormsLogic.csprojResolveAssemblyReference.cache
+C:\Users\godwis\Desktop\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\obj\Debug\WindowsFormsLogic.LogicForm.resources
+C:\Users\godwis\Desktop\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\obj\Debug\WindowsFormsLogic.Properties.Resources.resources
+C:\Users\godwis\Desktop\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\obj\Debug\WindowsFormsLogic.csproj.GenerateResource.cache
+C:\Users\godwis\Desktop\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\obj\Debug\WindowsFormsLogic.csproj.CoreCompileInputs.cache
+C:\Users\godwis\Desktop\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\obj\Debug\WindowsFormsLogic.exe
+C:\Users\godwis\Desktop\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\obj\Debug\WindowsFormsLogic.pdb
+F:\Programming 1\AT2\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\bin\Debug\WindowsFormsLogic.exe.config
+F:\Programming 1\AT2\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\bin\Debug\WindowsFormsLogic.exe
+F:\Programming 1\AT2\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\bin\Debug\WindowsFormsLogic.pdb
+F:\Programming 1\AT2\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\obj\Debug\WindowsFormsLogic.csprojAssemblyReference.cache
+F:\Programming 1\AT2\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\obj\Debug\WindowsFormsLogic.LogicForm.resources
+F:\Programming 1\AT2\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\obj\Debug\WindowsFormsLogic.Properties.Resources.resources
+F:\Programming 1\AT2\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\obj\Debug\WindowsFormsLogic.csproj.GenerateResource.cache
+F:\Programming 1\AT2\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\obj\Debug\WindowsFormsLogic.csproj.CoreCompileInputs.cache
+F:\Programming 1\AT2\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\obj\Debug\WindowsFormsLogic.exe
+F:\Programming 1\AT2\AT2_Logic_Problem\WindowsFormsLogic\WindowsFormsLogic\obj\Debug\WindowsFormsLogic.pdb

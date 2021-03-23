@@ -1,0 +1,7 @@
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.5\CancelOperation\CancelOperation\bin\Debug\CancelOperation.exe.config
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.5\CancelOperation\CancelOperation\bin\Debug\CancelOperation.exe
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.5\CancelOperation\CancelOperation\bin\Debug\CancelOperation.pdb
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.5\CancelOperation\CancelOperation\obj\Debug\CancelOperation.csprojAssemblyReference.cache
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.5\CancelOperation\CancelOperation\obj\Debug\CancelOperation.csproj.CoreCompileInputs.cache
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.5\CancelOperation\CancelOperation\obj\Debug\CancelOperation.exe
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.5\CancelOperation\CancelOperation\obj\Debug\CancelOperation.pdb

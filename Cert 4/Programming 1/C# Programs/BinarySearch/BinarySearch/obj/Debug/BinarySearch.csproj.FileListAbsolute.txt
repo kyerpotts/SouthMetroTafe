@@ -1,0 +1,10 @@
+F:\Programming 1\C# Programs\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+F:\Programming 1\C# Programs\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+F:\Programming 1\C# Programs\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+F:\Programming 1\C# Programs\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+F:\Programming 1\C# Programs\BinarySearch\BinarySearch\obj\Debug\BinarySearch.Form1.resources
+F:\Programming 1\C# Programs\BinarySearch\BinarySearch\obj\Debug\BinarySearch.Properties.Resources.resources
+F:\Programming 1\C# Programs\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.GenerateResource.cache
+F:\Programming 1\C# Programs\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+F:\Programming 1\C# Programs\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+F:\Programming 1\C# Programs\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb

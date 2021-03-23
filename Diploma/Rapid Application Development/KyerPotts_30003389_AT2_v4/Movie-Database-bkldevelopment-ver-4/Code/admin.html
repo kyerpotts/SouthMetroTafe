@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<!--
+  Luke Gough 30003918
+  Kyper Potts 30003389
+  Brandon Price P459899
+-->
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Project</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light"> <!-- Start Navbar-->
+    <a class="navbar-brand" href="index.html" alt="ACME Movie Search">ACME Movie Search</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+            <a class="nav-link" href="index.html" alt="Home">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="subscribe.html" alt="Subscribe">Subscribe</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" href="unsubscribe.html" alt="Unsubscribe">Unsubscribe</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="admin.html" alt="Admin">Admin</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="likeordislike.html" alt="Movie Rating">Movie Rating</a>
+        </li>
+      </ul>
+    </div>
+  </nav> <!-- End Navbar-->
+
+<div class="container"> <!-- Start Container -->
+      <div class="row text-white"> <!-- Start Row One -->
+          <div class="col-12 col-sm-6 offset-sm-3 text-center">
+              <h1 class="display-4" alt="Admin Login">Admin Login</h1>
+              <div class="info-form">
+                  <form action="./php/updatesubs.php" method="post" class="form-inlin justify-content-center">
+                    <p alt="Remove Unsubscribers (Admin Login)"><strong>Remove Unsubscribers (Admin Login)</strong></p>
+                    <button class="button" type="submit" alt="Update Subscriber List">Update Subscriber List</button>
+                  </form>
+                  <p></p>
+                  <form action="./php/viewsubs.php" method="post" class="form-inlin justify-content-center">
+                    <p alt="View Members (Admin Login)"><strong>View Members (Admin Login)</strong></p>   
+                    <button action="./php/viewsubs.php" class="button" type="submit" alt="View Subscriber List">View Subscriber List</button>
+                  </form>
+                  <form action="./php/updatedatabase.php" method="post" class="form-inlin justify-content-center">
+                    <p alt="Update Database"><strong>Update Database</strong></p>   
+                    <button action="./php/updatedatabASE.php" class="button" type="submit" alt="Update Database">Update Database</button>
+                  </form>
+                  <form action="./php/updatetables.php" method="post" class="form-inlin justify-content-center">
+                    <p alt="Update Tables"><strong>Update Tables</strong></p>   
+                    <button action="./php/updatetables.php" class="button" type="submit" alt="Update Tables">Update Tables</button>
+                  </form>
+                  <form action="./php/updaterecords.php" method="post" class="form-inlin justify-content-center">
+                    <p alt="Update Records"><strong>Update Records</strong></p>   
+                    <button action="./php/updaterecords.php" class="button" type="submit" alt="Update Records">Update Records</button>
+                  </form>
+              </div>
+          </div>
+      </div> <!-- End Row One -->
+      <p></p>
+      <div class="row text-white"> <!-- Start Row Two -->
+        <div class="col-12 col-sm-6 offset-sm-3 text-center">
+          <a class="button" href="./" alt="Back">Back</a>
+        </div>
+      </div> <!-- End Row Two -->
+
+  <!-- Script-->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html> 

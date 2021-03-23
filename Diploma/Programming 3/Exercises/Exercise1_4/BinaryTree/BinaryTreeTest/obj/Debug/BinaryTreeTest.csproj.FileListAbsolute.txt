@@ -1,0 +1,10 @@
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe.config
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.pdb
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTree.dll
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTree.pdb
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csprojAssemblyReference.cache
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csproj.CoreCompileInputs.cache
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csproj.CopyComplete
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.exe
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.pdb

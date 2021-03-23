@@ -1,0 +1,10 @@
+F:\&-Programming II\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+F:\&-Programming II\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+F:\&-Programming II\PipeServer\PipeServer\obj\Debug\PipeServer.csprojResolveAssemblyReference.cache
+F:\&-Programming II\PipeServer\PipeServer\obj\Debug\Pipes.Form1.resources
+F:\&-Programming II\PipeServer\PipeServer\obj\Debug\Pipes.Properties.Resources.resources
+F:\&-Programming II\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.GenerateResource.Cache
+F:\&-Programming II\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+F:\&-Programming II\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+F:\@ Programming III\Pipes activities\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+F:\@ Programming III\Pipes activities\PipeServer\PipeServer\obj\Debug\PipeServer.pdb

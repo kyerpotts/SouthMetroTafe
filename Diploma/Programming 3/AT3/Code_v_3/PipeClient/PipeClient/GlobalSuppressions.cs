@@ -1,0 +1,26 @@
+﻿// <copyright file="GlobalSuppressions.cs" company="PlaceholderCompany">
+// Copyright (c) PlaceholderCompany. All rights reserved.
+// </copyright>
+
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.MaintainabilityRules", "SA1400:Access modifier should be declared", Justification = "<Pending>", Scope = "member", Target = "~M:PipeClient.Program.Main")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.MaintainabilityRules", "SA1400:Access modifier should be declared", Justification = "<Pending>", Scope = "type", Target = "~T:PipeClient.Program")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.DocumentationRules", "SA1600:Elements should be documented", Justification = "<Pending>", Scope = "type", Target = "~T:PipeClient.Program")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.MaintainabilityRules", "SA1400:Access modifier should be declared", Justification = "<Pending>", Scope = "member", Target = "~M:PipeClient.PipeClient.CreateFile(System.String,System.UInt32,System.UInt32,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)~Microsoft.Win32.SafeHandles.SafeFileHandle")]
+
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.OrderingRules", "SA1202:Elements should be ordered by access", Justification = "<Pending>", Scope = "member", Target = "~M:PipeClient.PipeClient.SendMessage(System.Byte[])~System.Boolean")]
+
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.OrderingRules", "SA1201:Elements should appear in the correct order", Justification = "<Pending>", Scope = "type", Target = "~T:PipeClient.PipeClient.ServerDisconnectedHandler")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.OrderingRules", "SA1201:Elements should appear in the correct order", Justification = "<Pending>", Scope = "type", Target = "~T:PipeClient.PipeClient.MessageReceivedHandler")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.OrderingRules", "SA1201:Elements should appear in the correct order", Justification = "<Pending>", Scope = "member", Target = "~F:PipeClient.PipeClient.BUFFER_SIZE")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.MaintainabilityRules", "SA1404:Code analysis suppression should have justification", Justification = "<Pending>")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.MaintainabilityRules", "SA1400:Access modifier should be declared", Justification = "<Pending>", Scope = "member", Target = "~F:PipeClient.PipeClient.BUFFER_SIZE")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.MaintainabilityRules", "SA1400:Access modifier should be declared", Justification = "<Pending>", Scope = "member", Target = "~M:PipeClient.PipeClient.Read")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.MaintainabilityRules", "SA1400:Access modifier should be declared", Justification = "<Pending>", Scope = "member", Target = "~F:PipeClient.PipeClient.handle")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.MaintainabilityRules", "SA1400:Access modifier should be declared", Justification = "<Pending>", Scope = "member", Target = "~F:PipeClient.PipeClient.readThread")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.MaintainabilityRules", "SA1400:Access modifier should be declared", Justification = "<Pending>", Scope = "member", Target = "~F:PipeClient.PipeClient.stream")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.DocumentationRules", "SA1600:Elements should be documented", Justification = "<Pending>", Scope = "member", Target = "~P:PipeClient.Movies.Id")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.DocumentationRules", "SA1600:Elements should be documented", Justification = "<Pending>", Scope = "member", Target = "~P:PipeClient.Movies.Name")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.NamingRules", "SA1310:Field names should not contain underscore", Justification = "<Pending>", Scope = "member", Target = "~F:PipeClient.PipeClient.BUFFER_SIZE")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.DocumentationRules", "SA1623:Property summary documentation should match accessors", Justification = "<Pending>", Scope = "member", Target = "~P:PipeClient.PipeClient.Connected")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.DocumentationRules", "SA1623:Property summary documentation should match accessors", Justification = "<Pending>", Scope = "member", Target = "~P:PipeClient.PipeClient.PipeName")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.ReadabilityRules", "SA1124:Do not use regions", Justification = "<Pending>", Scope = "member", Target = "~M:PipeClient.ClientForm.MergeSort(System.Collections.Generic.List{PipeClient.Movies})~System.Collections.Generic.List{PipeClient.Movies}")]

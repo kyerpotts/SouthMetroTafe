@@ -1,0 +1,10 @@
+E:\Scripting\AT2\AT2 Project\AT2 Project\bin\Debug\AT2 Project.exe.config
+E:\Scripting\AT2\AT2 Project\AT2 Project\bin\Debug\AT2 Project.exe
+E:\Scripting\AT2\AT2 Project\AT2 Project\bin\Debug\AT2 Project.pdb
+E:\Scripting\AT2\AT2 Project\AT2 Project\obj\Debug\AT2 Project.csprojAssemblyReference.cache
+E:\Scripting\AT2\AT2 Project\AT2 Project\obj\Debug\AT2_Project.ArduinoControlSuite_V1.resources
+E:\Scripting\AT2\AT2 Project\AT2 Project\obj\Debug\AT2_Project.Properties.Resources.resources
+E:\Scripting\AT2\AT2 Project\AT2 Project\obj\Debug\AT2 Project.csproj.GenerateResource.cache
+E:\Scripting\AT2\AT2 Project\AT2 Project\obj\Debug\AT2 Project.csproj.CoreCompileInputs.cache
+E:\Scripting\AT2\AT2 Project\AT2 Project\obj\Debug\AT2 Project.exe
+E:\Scripting\AT2\AT2 Project\AT2 Project\obj\Debug\AT2 Project.pdb

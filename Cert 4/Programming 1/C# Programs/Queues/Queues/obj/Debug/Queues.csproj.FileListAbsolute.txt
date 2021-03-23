@@ -1,0 +1,10 @@
+F:\Programming 1\C# Programs\Queues\Queues\bin\Debug\Queues.exe.config
+F:\Programming 1\C# Programs\Queues\Queues\bin\Debug\Queues.exe
+F:\Programming 1\C# Programs\Queues\Queues\bin\Debug\Queues.pdb
+F:\Programming 1\C# Programs\Queues\Queues\obj\Debug\Queues.csprojAssemblyReference.cache
+F:\Programming 1\C# Programs\Queues\Queues\obj\Debug\Queues.Form1.resources
+F:\Programming 1\C# Programs\Queues\Queues\obj\Debug\Queues.Properties.Resources.resources
+F:\Programming 1\C# Programs\Queues\Queues\obj\Debug\Queues.csproj.GenerateResource.cache
+F:\Programming 1\C# Programs\Queues\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+F:\Programming 1\C# Programs\Queues\Queues\obj\Debug\Queues.exe
+F:\Programming 1\C# Programs\Queues\Queues\obj\Debug\Queues.pdb

@@ -1,0 +1,10 @@
+F:\Programming 1\C# Programs\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+F:\Programming 1\C# Programs\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+F:\Programming 1\C# Programs\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+F:\Programming 1\C# Programs\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+F:\Programming 1\C# Programs\BubbleSort\BubbleSort\obj\Debug\BubbleSort.Form1.resources
+F:\Programming 1\C# Programs\BubbleSort\BubbleSort\obj\Debug\BubbleSort.Properties.Resources.resources
+F:\Programming 1\C# Programs\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.GenerateResource.cache
+F:\Programming 1\C# Programs\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+F:\Programming 1\C# Programs\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+F:\Programming 1\C# Programs\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb

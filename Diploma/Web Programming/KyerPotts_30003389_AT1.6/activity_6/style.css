@@ -1,0 +1,53 @@
+h1 {
+	font-family: Arial;
+	color: white;
+}
+
+body {
+	background: #0e4c57;
+	font-family: Arial;
+	color: white
+}
+
+p {
+	font-family: Arial;
+	font-size: 15px;
+	color: white;
+}
+
+table, th, td {
+	border-collapse: collapse
+	border: 1px solid white;
+}
+
+th {
+	background-color: #1c9cc7;
+	color: white
+	height: 30px;
+	text-align: center;
+}
+
+th, td {
+	padding: 5px;
+	color: white;
+}
+
+label {
+	display: inline-block;
+	width: 100px;
+	text-alight: right;
+}
+
+input[type=submit]{
+	width: 150px;
+	background-color: #86cef0;
+	border: none;
+	color: white;
+	padding: 16px 32px;
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+	

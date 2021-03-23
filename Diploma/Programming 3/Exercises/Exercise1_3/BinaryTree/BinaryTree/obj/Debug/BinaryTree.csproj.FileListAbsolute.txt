@@ -1,0 +1,7 @@
+D:\Diploma\Programming 3\Exercises\Exercise1_3\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\Diploma\Programming 3\Exercises\Exercise1_3\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+D:\Diploma\Programming 3\Exercises\Exercise1_3\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\Diploma\Programming 3\Exercises\Exercise1_3\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+D:\Diploma\Programming 3\Exercises\Exercise1_3\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\Diploma\Programming 3\Exercises\Exercise1_3\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+D:\Diploma\Programming 3\Exercises\Exercise1_3\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb

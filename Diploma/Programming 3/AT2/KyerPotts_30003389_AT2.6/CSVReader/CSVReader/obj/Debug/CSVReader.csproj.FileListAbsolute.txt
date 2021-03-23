@@ -1,0 +1,15 @@
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\bin\Debug\CSVReader.exe.config
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\bin\Debug\CSVReader.exe
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\bin\Debug\CSVReader.pdb
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\bin\Debug\CsvHelper.dll
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\bin\Debug\System.ValueTuple.dll
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\bin\Debug\CsvHelper.xml
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\bin\Debug\System.ValueTuple.xml
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\obj\Debug\CSVReader.csprojAssemblyReference.cache
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\obj\Debug\CSVReader.CSVReader.resources
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\obj\Debug\CSVReader.Properties.Resources.resources
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\obj\Debug\CSVReader.csproj.GenerateResource.cache
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\obj\Debug\CSVReader.csproj.CoreCompileInputs.cache
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\obj\Debug\CSVReader.csproj.CopyComplete
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\obj\Debug\CSVReader.exe
+E:\Diploma\Programming 3\AT2\KyerPotts_30003389_AT2.6\CSVReader\CSVReader\obj\Debug\CSVReader.pdb

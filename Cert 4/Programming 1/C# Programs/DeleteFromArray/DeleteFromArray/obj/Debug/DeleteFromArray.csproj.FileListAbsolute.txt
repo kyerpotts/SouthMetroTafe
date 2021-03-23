@@ -1,0 +1,10 @@
+C:\Users\nightr\source\repos\DeleteFromArray\DeleteFromArray\bin\Debug\DeleteFromArray.exe.config
+C:\Users\nightr\source\repos\DeleteFromArray\DeleteFromArray\bin\Debug\DeleteFromArray.exe
+C:\Users\nightr\source\repos\DeleteFromArray\DeleteFromArray\bin\Debug\DeleteFromArray.pdb
+C:\Users\nightr\source\repos\DeleteFromArray\DeleteFromArray\obj\Debug\DeleteFromArray.csprojAssemblyReference.cache
+C:\Users\nightr\source\repos\DeleteFromArray\DeleteFromArray\obj\Debug\DeleteFromArray.Form1.resources
+C:\Users\nightr\source\repos\DeleteFromArray\DeleteFromArray\obj\Debug\DeleteFromArray.Properties.Resources.resources
+C:\Users\nightr\source\repos\DeleteFromArray\DeleteFromArray\obj\Debug\DeleteFromArray.csproj.GenerateResource.cache
+C:\Users\nightr\source\repos\DeleteFromArray\DeleteFromArray\obj\Debug\DeleteFromArray.csproj.CoreCompileInputs.cache
+C:\Users\nightr\source\repos\DeleteFromArray\DeleteFromArray\obj\Debug\DeleteFromArray.exe
+C:\Users\nightr\source\repos\DeleteFromArray\DeleteFromArray\obj\Debug\DeleteFromArray.pdb

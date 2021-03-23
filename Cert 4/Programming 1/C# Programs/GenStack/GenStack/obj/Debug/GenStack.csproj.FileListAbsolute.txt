@@ -1,0 +1,10 @@
+F:\Programming 1\C# Programs\GenStack\GenStack\bin\Debug\GenStack.exe.config
+F:\Programming 1\C# Programs\GenStack\GenStack\bin\Debug\GenStack.exe
+F:\Programming 1\C# Programs\GenStack\GenStack\bin\Debug\GenStack.pdb
+F:\Programming 1\C# Programs\GenStack\GenStack\obj\Debug\GenStack.csprojAssemblyReference.cache
+F:\Programming 1\C# Programs\GenStack\GenStack\obj\Debug\GenStack.Form1.resources
+F:\Programming 1\C# Programs\GenStack\GenStack\obj\Debug\GenStack.Properties.Resources.resources
+F:\Programming 1\C# Programs\GenStack\GenStack\obj\Debug\GenStack.csproj.GenerateResource.cache
+F:\Programming 1\C# Programs\GenStack\GenStack\obj\Debug\GenStack.csproj.CoreCompileInputs.cache
+F:\Programming 1\C# Programs\GenStack\GenStack\obj\Debug\GenStack.exe
+F:\Programming 1\C# Programs\GenStack\GenStack\obj\Debug\GenStack.pdb

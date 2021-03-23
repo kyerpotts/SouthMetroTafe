@@ -1,0 +1,10 @@
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe.config
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.pdb
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csprojAssemblyReference.cache
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Form1.resources
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Properties.Resources.resources
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.GenerateResource.cache
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.CoreCompileInputs.cache
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.exe
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.pdb

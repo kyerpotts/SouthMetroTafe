@@ -1,0 +1,10 @@
+D:\Diploma\Programming 3\Exercises\Exercise1_2\Exercise1_2\bin\Debug\Exercise1_2.exe.config
+D:\Diploma\Programming 3\Exercises\Exercise1_2\Exercise1_2\bin\Debug\Exercise1_2.exe
+D:\Diploma\Programming 3\Exercises\Exercise1_2\Exercise1_2\bin\Debug\Exercise1_2.pdb
+D:\Diploma\Programming 3\Exercises\Exercise1_2\Exercise1_2\obj\Debug\Exercise1_2.csprojAssemblyReference.cache
+D:\Diploma\Programming 3\Exercises\Exercise1_2\Exercise1_2\obj\Debug\Exercise1_2.LinkedList.resources
+D:\Diploma\Programming 3\Exercises\Exercise1_2\Exercise1_2\obj\Debug\Exercise1_2.Properties.Resources.resources
+D:\Diploma\Programming 3\Exercises\Exercise1_2\Exercise1_2\obj\Debug\Exercise1_2.csproj.GenerateResource.cache
+D:\Diploma\Programming 3\Exercises\Exercise1_2\Exercise1_2\obj\Debug\Exercise1_2.csproj.CoreCompileInputs.cache
+D:\Diploma\Programming 3\Exercises\Exercise1_2\Exercise1_2\obj\Debug\Exercise1_2.exe
+D:\Diploma\Programming 3\Exercises\Exercise1_2\Exercise1_2\obj\Debug\Exercise1_2.pdb

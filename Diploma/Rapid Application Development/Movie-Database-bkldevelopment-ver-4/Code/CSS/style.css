@@ -1,0 +1,54 @@
+body {
+	background-color: #222431;
+	color: white;
+	font-family: Consolas;
+}
+
+p { 
+	margin: 10px 0px;
+}
+
+input {
+	border-radius: 2px;
+}
+
+input:focus {
+  background-color: lightblue;
+}
+
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+	margin-bottom: 10px;
+  padding: 5px 10px;
+}
+
+.container {
+	padding-bottom: 10px;
+}
+
+.button {
+  background-color: #4EB8CE;
+  border: none;
+  color: #222431;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
+.choose_rating{
+    color: gray;
+}
+
+.rating{
+    color: black;
+}
+
+/*
+	https://www.w3schools.com/css/css_form.asp
+	Backgrounds: #222431
+	Buttons background: #4EB8CE
+	Button text colour: white
+*/

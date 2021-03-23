@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<!--
+  Luke Gough 30003918
+  Kyper Potts 30003389
+  Brandon Price P459899
+-->
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>Project</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light"> <!-- Start Navbar-->
+    <a class="navbar-brand" href="index.html">ACME Movie Search</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+            <a class="nav-link" href="index.html">Home</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="signup.html">Sign Up</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" href="unsubscribe.html">Unsubscribe</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="admin.html">Admin</a>
+        </li>
+      </ul>
+    </div>
+  </nav> <!-- End Navbar-->
+
+  <div class="container"> <!-- Start Container -->
+      <div class="row text-white"> <!-- Start Row One -->
+          <div class="col-12 col-sm-6 offset-sm-3 text-center">
+              <h1 class="display-4">Movie Database</h1>
+              <div class="info-form">
+                  <form action="./php/SelectMovies.php" method="post" class="form-inlin justify-content-center">
+                    <p><strong>Enter Movie Information To Search For</strong></p>
+                    <p>
+                      <input type="text" name="title" placeholder="Title">
+                    </p>
+                    <p>
+                      <input type="text" name="genre" placeholder="Genre">
+                    </p>
+                    <p>
+                      <!-- <input type="text" name="rating" placeholder="Rating"> -->
+                      <select name="rating" onchange="this.className=this.options[this.selectedIndex].className" class="choose_rating">
+                        <!-- Grayed out option with blank value-->
+                        <option value="" name="rating" class="choose_rating">Rating</option>
+                        
+                        <!-- Available Options -->
+                        <option value="G" name="rating" class="rating">G</option>
+                        <option value="NC-17" name="rating" class="rating">NC-17</option>
+                        <option value="NR" name="rating" class="rating">NR</option>
+                        <option value="PG" name="rating" class="rating">PG</option>
+                        <option value="PG-13" name="rating" class="rating">PG-13</option>
+                        <option value="R" name="rating" class="rating">R</option>
+                        <option value="R/NR" name="rating" class="rating">R/NR</option>
+                        <option value="R/UR" name="rating" class="rating">R/UR</option>
+                        <option value="UNK" name="rating" class="rating">UNK</option>
+                        <option value="UR" name="rating" class="rating">UR</option>
+                        <option value="UR/R" name="rating" class="rating">UR/R</option>
+                        <option value="VAR" name="rating" class="rating">VAR</option>
+                      </select>
+                    </p>
+                    <p>
+                      <input type="number" name="year" min="1900" max="2099" step="1" placeholder="Year"/>
+                    </p>
+                    <button class="button" type="submit">Search</button>
+                  </form>
+              </div>
+          </div>
+      </div> <!-- End Row One -->
+      <div class="row text-white"> <!-- Start Row Two -->
+        <div class="col-12 col-sm-6 offset-sm-3 text-center">
+          <p>Top Ten Most Searched Movives</p>
+          <form action="./php/Chart.php" method="post">
+            <button class="button" type="submit">Show</button>
+          </form>
+        </div>
+      </div> <!-- End Row Two -->
+      <div class="row text-white"> <!-- Start Row Three -->
+        <div class="col-12 col-sm-6 offset-sm-3 text-center">
+          <p><strong>Available Searching Types</strong></p>
+          <ul class="list-unstyled">
+            <li>Title</li>
+            <li>Genre</li>
+            <li>Rating</li>
+            <li>Year</li>
+          </ul>
+        </div>
+      </div> <!-- End Row Three -->
+      <div class="row text-white"> <!-- Start Row Four -->
+        <div class="col-12 col-sm-6 offset-sm-3 text-center">
+          <p><strong>Example Searches</strong></p>
+          <ul class="list-unstyled">
+            <li>Genre (Comedy or SciFi) with Rating (PG) in 1995</li>
+            <li>Title with Genre</li>
+            <li>Title only</li>
+          </ul>
+        </div>
+      </div> <!-- End Row Four -->
+  </div> <!-- End Container -->
+
+  <!-- Script-->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html>
+

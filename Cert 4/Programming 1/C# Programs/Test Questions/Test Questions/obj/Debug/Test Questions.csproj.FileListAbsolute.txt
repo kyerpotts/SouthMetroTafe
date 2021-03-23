@@ -1,0 +1,7 @@
+F:\Programming 1\C# Programs\Test Questions\Test Questions\bin\Debug\Test Questions.exe.config
+F:\Programming 1\C# Programs\Test Questions\Test Questions\bin\Debug\Test Questions.exe
+F:\Programming 1\C# Programs\Test Questions\Test Questions\bin\Debug\Test Questions.pdb
+F:\Programming 1\C# Programs\Test Questions\Test Questions\obj\Debug\Test Questions.csprojAssemblyReference.cache
+F:\Programming 1\C# Programs\Test Questions\Test Questions\obj\Debug\Test Questions.csproj.CoreCompileInputs.cache
+F:\Programming 1\C# Programs\Test Questions\Test Questions\obj\Debug\Test Questions.exe
+F:\Programming 1\C# Programs\Test Questions\Test Questions\obj\Debug\Test Questions.pdb

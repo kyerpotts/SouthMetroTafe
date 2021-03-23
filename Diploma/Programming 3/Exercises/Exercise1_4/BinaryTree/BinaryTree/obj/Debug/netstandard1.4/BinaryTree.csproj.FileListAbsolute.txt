@@ -1,0 +1,8 @@
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTree\bin\Debug\netstandard1.4\BinaryTree.deps.json
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTree\bin\Debug\netstandard1.4\BinaryTree.dll
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTree\bin\Debug\netstandard1.4\BinaryTree.pdb
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTree\obj\Debug\netstandard1.4\BinaryTree.csprojAssemblyReference.cache
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTree\obj\Debug\netstandard1.4\BinaryTree.csproj.CoreCompileInputs.cache
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTree\obj\Debug\netstandard1.4\BinaryTree.AssemblyInfo.cs
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTree\obj\Debug\netstandard1.4\BinaryTree.dll
+D:\Diploma\Programming 3\Exercises\Exercise1_4\BinaryTree\BinaryTree\obj\Debug\netstandard1.4\BinaryTree.pdb

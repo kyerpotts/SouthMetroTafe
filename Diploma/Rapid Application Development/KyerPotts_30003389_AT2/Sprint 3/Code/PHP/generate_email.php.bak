@@ -1,0 +1,84 @@
+<?php
+// this line includes the HTML file header.php
+include("../templates/header.php");
+
+// Define variables and initialize with empty values
+$monthly_newsletter = '0';
+$breaking_newsflash = '0';
+$email = $_POST['email'];
+$to_email_address = "bkldevelopment@outlook.com";
+
+$subject = "Unsubscribe for $email";
+$message;
+
+if($monthly_newsletter == "0"){
+    $message = "Unsubscribe to Monthly Newsletter.";
+} else {
+    $message = "Subscribe to Monthly Newsletter.";
+}
+
+if($breaking_newsflash == "0"){
+    $message = $message . " Unsubscribe to Monthly Newsletter";
+} else {
+    $message = $message . " Subscribe to Monthly Newsletter";
+}
+
+if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+  $email_err = true;
+} else {
+	$email_err = false;
+}
+
+if ($_POST['monthly_newsletter'] == '1') {
+	$monthly_newsletter = '1';
+}
+
+if ($_POST['breaking_newsflash'] == '1') {
+	$breaking_newsflash = '1';
+}
+
+
+if (!($email_err)) {
+	try {
+		require("connect.php");
+	} catch(PDOException $e) {
+		echo "ERROR: Could not connect. " . $e->getMessage();
+	}
+
+	try {
+		// query to check if email address already exists
+		$query = "SELECT id FROM members_table WHERE email = '$email'";
+		
+		// attempt to run query
+		$stmt = $conn->prepare($query);
+		$stmt->execute();
+		
+		if($stmt->rowCount() > 0){
+            mail($to_email_address,$subject,$message);
+            echo "Email to Administration has been sent";
+		} else {
+			echo "Email address does not belong to a valid user, please sign up.";
+		}
+	} catch (PDOException $e) {
+		echo "ERROR: Could not run query. " . $e->getMessage();
+	}
+	
+	// close connection
+	$conn = null;
+	
+} else {
+	if ($email_err) {
+		print_r("Incorrect Email format.");
+	}
+}
+
+echo "<p></p>";
+echo "<div class=\"row text-white\"> <!-- Start Row One -->";
+echo "<div class=\"col-12 col-sm-6\">";
+echo "<a class=\"button\" href=\"../\">Back</a>";
+echo "</div>";
+echo "</div> <!-- End Row One -->";
+
+// this line includes the HTML file footer.php
+include("../templates/footer.php"); 
+?>

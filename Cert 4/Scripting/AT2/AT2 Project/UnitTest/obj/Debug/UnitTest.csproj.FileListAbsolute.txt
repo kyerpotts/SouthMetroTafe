@@ -1,0 +1,17 @@
+E:\Scripting\AT2\AT2 Project\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Scripting\AT2\AT2 Project\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Scripting\AT2\AT2 Project\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Scripting\AT2\AT2 Project\UnitTest\bin\Debug\UnitTest.dll
+E:\Scripting\AT2\AT2 Project\UnitTest\bin\Debug\UnitTest.pdb
+E:\Scripting\AT2\AT2 Project\UnitTest\bin\Debug\AT2 Project.exe
+E:\Scripting\AT2\AT2 Project\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Scripting\AT2\AT2 Project\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Scripting\AT2\AT2 Project\UnitTest\bin\Debug\AT2 Project.pdb
+E:\Scripting\AT2\AT2 Project\UnitTest\bin\Debug\AT2 Project.exe.config
+E:\Scripting\AT2\AT2 Project\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Scripting\AT2\AT2 Project\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Scripting\AT2\AT2 Project\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+E:\Scripting\AT2\AT2 Project\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+E:\Scripting\AT2\AT2 Project\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+E:\Scripting\AT2\AT2 Project\UnitTest\obj\Debug\UnitTest.dll
+E:\Scripting\AT2\AT2 Project\UnitTest\obj\Debug\UnitTest.pdb

@@ -1,0 +1,50 @@
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe.config
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.pdb
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csprojAssemblyReference.cache
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Form1.resources
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Properties.Resources.resources
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.GenerateResource.cache
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.CoreCompileInputs.cache
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.exe
+F:\Programming 1\C# Programs\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.pdb
+F:\Programming 1\AT3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe.config
+F:\Programming 1\AT3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe
+F:\Programming 1\AT3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.pdb
+F:\Programming 1\AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csprojAssemblyReference.cache
+F:\Programming 1\AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Form1.resources
+F:\Programming 1\AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Properties.Resources.resources
+F:\Programming 1\AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.GenerateResource.cache
+F:\Programming 1\AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.CoreCompileInputs.cache
+F:\Programming 1\AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.exe
+F:\Programming 1\AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.pdb
+F:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe.config
+F:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe
+F:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.pdb
+F:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csprojAssemblyReference.cache
+F:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Form1.resources
+F:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Properties.Resources.resources
+F:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.GenerateResource.cache
+F:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.CoreCompileInputs.cache
+F:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.exe
+F:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.pdb
+D:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe.config
+D:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe
+D:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.pdb
+D:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csprojAssemblyReference.cache
+D:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Form1.resources
+D:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Properties.Resources.resources
+D:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.GenerateResource.cache
+D:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.CoreCompileInputs.cache
+D:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.exe
+D:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.pdb
+E:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe.config
+E:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe
+E:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.pdb
+E:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csprojAssemblyReference.cache
+E:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Form1.resources
+E:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Properties.Resources.resources
+E:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.GenerateResource.cache
+E:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.CoreCompileInputs.cache
+E:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.exe
+E:\Programming 1\AT3\30003389_AT3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.pdb

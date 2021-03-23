@@ -1,0 +1,10 @@
+D:\Programming 2\Portfolio\AT1.3\MyFleet\MyFleet\obj\Debug\MyFleet.csprojAssemblyReference.cache
+D:\Programming 2\Portfolio\AT1.3\MyFleet\MyFleet\obj\Debug\MyFleet.MyFleet.resources
+D:\Programming 2\Portfolio\AT1.3\MyFleet\MyFleet\obj\Debug\MyFleet.Properties.Resources.resources
+D:\Programming 2\Portfolio\AT1.3\MyFleet\MyFleet\obj\Debug\MyFleet.csproj.GenerateResource.cache
+D:\Programming 2\Portfolio\AT1.3\MyFleet\MyFleet\obj\Debug\MyFleet.csproj.CoreCompileInputs.cache
+D:\Programming 2\Portfolio\AT1.3\MyFleet\MyFleet\bin\Debug\MyFleet.exe.config
+D:\Programming 2\Portfolio\AT1.3\MyFleet\MyFleet\bin\Debug\MyFleet.exe
+D:\Programming 2\Portfolio\AT1.3\MyFleet\MyFleet\bin\Debug\MyFleet.pdb
+D:\Programming 2\Portfolio\AT1.3\MyFleet\MyFleet\obj\Debug\MyFleet.exe
+D:\Programming 2\Portfolio\AT1.3\MyFleet\MyFleet\obj\Debug\MyFleet.pdb

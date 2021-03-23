@@ -1,0 +1,59 @@
+<diagram program="umletino" version="14.3.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>20</x><y>49</y><w>210</w><h>190</h></coordinates><panel_attributes>Player
+
+--
+-id: int
++name: string
++goals[]: Goal
++team: Team
++wins[]: Game
+
+--
++addGoal(): Goal
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>260</x><y>269</y><w>210</w><h>190</h></coordinates><panel_attributes>League
+
+--
+id: int
+team[]: Team
+name: string
+game[]: Game
+--
++addteam(): Team
++removeteam(): Team
++addgame(): Game
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>20</x><y>269</y><w>210</w><h>190</h></coordinates><panel_attributes>Team
+
+--
+id: int
+name: string
+player[]: Player
+wins[]: Game
+league: League
+--
+-wingame(): Game
++addplayer(): Player
++removeplayer(): Player
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>150</x><y>489</y><w>210</w><h>190</h></coordinates><panel_attributes>Game
+
+--
+id: int
+teamwin: Team
+teamOne: Team
+teamTwo: Team
+teamOneScore: int
+teamTwoScore: int
+date: Date
+--
++startgame()
++endgame()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>260</x><y>50</y><w>210</w><h>190</h></coordinates><panel_attributes>Goal
+--
+-id: int
++player: Player
++time: Date
++team: Team
++game: Game
+
+--
+
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>

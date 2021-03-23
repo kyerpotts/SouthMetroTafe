@@ -1,0 +1,94 @@
+Copy & Paste the following when instructed:
+
+1 - Create table SQL
+	$query = "CREATE TABLE contacts
+		(id int NOT NULL auto_increment,
+		first varchar(15) NOT NULL,
+		last varchar(15) NOT NULL,
+		phone varchar(20) NOT NULL,
+		mobile varchar(20) NOT NULL,
+		fax varchar(20) NOT NULL,
+		email varchar(30) NOT NULL,
+		web varchar(30) NOT NULL,
+		PRIMARY KEY (id))";
+		
+2 - Insert into DB SQL
+	$query = "INSERT INTO contacts VALUES ('','Wilma','Flintstone','01234 11111','00112 554433','01234 67565','wilma@rocky.com','https://www.southmetrotafe.wa.edu.au/'),
+										  ('','Fred','Flintstone','01234 22222','1122 445533','2345 7896','freddy@rocky.com','https://www.southmetrotafe.wa.edu.au/'),
+										  ('','Barney','Rubble','01234 3333','2211 665544','3456 9876','barney@rocky.com','https://www.southmetrotafe.wa.edu.au/'),
+										  ('','Betty','Rubble','01234 4444','3344 56764','6543 212121','betty@rocky.com','https://www.southmetrotafe.wa.edu.au/')";
+										  
+3 - Form
+			$firstname = $_POST['first'];
+			$lastname = $_POST['last'];
+			$phone = $_POST['phone'];
+			$mobile = $_POST['mobile'];
+			$fax = $_POST['fax'];
+			$email = $_POST['email'];
+			$web = $_POST['web'];		
+
+4 - Form
+			<form action=<?php echo $_SERVER["PHP_SELF"]; ?> method="post">
+				<table>
+					<tr>
+						<td>First Name:</td> <td><input type="text" name="first"></td>
+					</tr>
+					<tr>
+						<td>Last Name: <td><input type="text" name="last"></td>
+					</tr>
+					<tr>
+						<td>Phone:</td> <td><input type="text" name="phone"></td>
+					</tr>
+					<tr>
+						<td>Mobile:</td> <td><input type="text" name="mobile"></td>
+					</tr>
+					<tr>
+						<td>Fax: </td><td><input type="text" name="fax">
+					</tr>
+					<tr>
+						<td>E-mail: </td><td><input type="text" name="email"></td>
+					</tr>
+					<tr>
+						<td>Web:</td> <td><input type="text" name="web"></td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td><td><input type="submit" name="submit" value="Go"></td>
+					</tr>
+				</table>
+			</form>			
+			
+5 - Table head
+<!-- Please note that this is a very old fashioned way of doing this -->
+<table border="0" cellspacing="2" cellpadding="2">
+	<tr>
+		<th><font face="Arial, Helvetica, sans-serif">Name</font></th>
+		<th><font face="Arial, Helvetica, sans-serif">Phone</font></th>
+		<th><font face="Arial, Helvetica, sans-serif">Mobile</font></th>
+		<th><font face="Arial, Helvetica, sans-serif">Fax</font></th>
+		<th><font face="Arial, Helvetica, sans-serif">E-mail</font></th>
+		<th><font face="Arial, Helvetica, sans-serif">Website</font></th>
+		<th>&nbsp;</th>
+	</tr>
+6 - While loop	
+			while ($row = mysqli_fetch_array($result)) 
+			{
+				$first  = $row['first'];
+				$last   = $row['last'];
+				$phone  = $row['phone'];
+				$mobile = $row['mobile'];
+				$fax    = $row['fax'];
+				$email  = $row['email'];
+				$web    = $row['web'];
+			}
+			
+7 - Table Body
+
+			<tr>
+				<td><font face="Arial, Helvetica, sans-serif"><?php echo $first." ".$last; ?></font></td>
+				<td><font face="Arial, Helvetica, sans-serif"><?php echo $phone; ?></font></td>
+				<td><font face="Arial, Helvetica, sans-serif"><?php echo $mobile; ?></font></td>
+				<td><font face="Arial, Helvetica, sans-serif"><?php echo $fax; ?></font></td>
+				<td><font face="Arial, Helvetica, sans-serif"><a href="mailto:<?php echo $email; ?>">E-mail</a></font></td>
+				<td><font face="Arial, Helvetica, sans-serif"><a href="<?php echo $web; ?>">Website</a></font></td>
+				<td>&nbsp;</td>
+			</tr>

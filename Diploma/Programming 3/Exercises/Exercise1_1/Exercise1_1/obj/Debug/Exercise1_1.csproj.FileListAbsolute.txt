@@ -1,0 +1,10 @@
+D:\Diploma\Programming 3\Exercises\Exercise1_1\Exercise1_1\bin\Debug\Exercise1_1.exe.config
+D:\Diploma\Programming 3\Exercises\Exercise1_1\Exercise1_1\bin\Debug\Exercise1_1.exe
+D:\Diploma\Programming 3\Exercises\Exercise1_1\Exercise1_1\bin\Debug\Exercise1_1.pdb
+D:\Diploma\Programming 3\Exercises\Exercise1_1\Exercise1_1\obj\Debug\Exercise1_1.csprojAssemblyReference.cache
+D:\Diploma\Programming 3\Exercises\Exercise1_1\Exercise1_1\obj\Debug\Exercise1_1.Revision.resources
+D:\Diploma\Programming 3\Exercises\Exercise1_1\Exercise1_1\obj\Debug\Exercise1_1.Properties.Resources.resources
+D:\Diploma\Programming 3\Exercises\Exercise1_1\Exercise1_1\obj\Debug\Exercise1_1.csproj.GenerateResource.cache
+D:\Diploma\Programming 3\Exercises\Exercise1_1\Exercise1_1\obj\Debug\Exercise1_1.csproj.CoreCompileInputs.cache
+D:\Diploma\Programming 3\Exercises\Exercise1_1\Exercise1_1\obj\Debug\Exercise1_1.exe
+D:\Diploma\Programming 3\Exercises\Exercise1_1\Exercise1_1\obj\Debug\Exercise1_1.pdb
